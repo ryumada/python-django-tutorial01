@@ -10,6 +10,7 @@ This README provides the log what I've done with this repository. This repositor
   - [3. Create a project](#3-create-a-project)
   - [4. The development server](#4-the-development-server)
   - [5. Start the development](#5-start-the-development)
+- [The Next Step](#the-next-step)
 
 ## Initial Steps
 See this link to see the full explanation: https://docs.djangoproject.com/en/4.0/intro/tutorial01/
@@ -57,5 +58,7 @@ python manage.py startapp polls
 ```
 That'll create a new directory **polls**.
 
-
+## The Next Step
+In this tutorial, I've finished the first Django's tutorial01. Next time I will do the next part at this link:
+https://docs.djangoproject.com/en/4.0/intro/tutorial02/
 
